@@ -4,4 +4,4 @@ This paper proposes a logistic regression approach paired with term and inverse 
 
 Cite as: Al Omari, M., Al-Hajj, M., Hammami, N., & Sabra, A. (2019). Sentiment Classifier: Logistic Regression for Arabic Services’ Reviews in Lebanon. 2019 International Conference on Computer and Information Sciences (ICCIS), Sakaka, Saudi Arabia, 2019, pp. 1-5. Doi: 10.1109/ICCISci.2019.8716394
 
-Dataset will be available soon, stay turned!
+Note: OCLAR Dataset available in the implementation folder.
